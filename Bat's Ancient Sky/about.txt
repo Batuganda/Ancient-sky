@@ -1,0 +1,3 @@
+A plugin imagining an iconic war between the humans and their genetically modified alphas.
+
+V1.0 - Added outfits and ships (bound to be reworked in terms of sprite). could be bought in any basic outfitters and shipyards
